@@ -1,6 +1,6 @@
 ---
 -
-  title: Week 1
+  title: Week1
   open_date: 2014-10-6 12:00:00 -7
   close_date: 2014-10-13 12:00:00 -7
   problems:
@@ -29,7 +29,7 @@
       - setCombinatorics/ClassSize.pg
 
 -
-  title: Week 2
+  title: Week2
   open_date: 2014-10-13 12:00:00 -7
   close_date: 2014-10-20 12:00:00 -7
   problems:
@@ -51,7 +51,7 @@
       - Library/ASU-topics/setCount/sw10_2_22.pg
       - Library/ASU-topics/setCount/sw10_2_52.pg
 -
-  title: Week 3
+  title: Week3
   open_date: 2014-10-20 12:00:00 -7
   close_date: 2014-10-27 12:00:00 -7
   problems:
@@ -85,7 +85,7 @@
       - setCDF/cdf_random.pg
 
 -
-  title: Combinatorics/Probability
+  title: CombinatoricsProbability
   open_date: 2014-10-27 12:00:00 -7
   close_date: 2014-11-03 12:00:00 -7
   problems:
@@ -109,7 +109,7 @@
       - setexperimentalProblems/balls_bins_2_rs.pg
       - setCombinatorics/Envelopes1.pg
 -
-  title: Week 4
+  title: Week4
   open_date: 2014-10-27 12:00:00 -7
   close_date: 2014-11-03 12:00:00 -7
   problems:
@@ -136,9 +136,9 @@
       - setPokerCondProb/poker_cond6_2.pg
 
 -
-  title: Week 5
-  open_date: 2014-11-03 12:00:00 -7
-  close_date: 2014-11-10 12:00:00 -7
+  title: Week5
+  open_date: 2014-11-03 12:00:00 -8
+  close_date: 2014-11-10 12:00:00 -8
   problems:
     ExpectationVariance:
       - setAssignment7/Notes_3_2_1.pg
@@ -156,9 +156,9 @@
       - setAssignment10.23.13/RiggedDice.pg
 
 -
-  title: Week 8
-  open_date: 2014-11-17 12:00:00 -7
-  close_date: 2014-11-24 12:00:00 -7
+  title: Week7
+  open_date: 2014-11-17 12:00:00 -8
+  close_date: 2014-11-24 12:00:00 -8
   problems:
     Covariance:
       - setmelkherj/ContingencyTables1.pg
@@ -179,9 +179,9 @@
       - setexperimentalProblems/poisson_rs.pg
 
 -
-  title: Week 9
-  open_date: 2014-11-24 12:00:00 -7
-  close_date: 2014-12-01 12:00:00 -7
+  title: Week9
+  open_date: 2014-11-24 12:00:00 -8
+  close_date: 2014-12-01 12:00:00 -8
   problems:
     CentralLimitTheorem:
       - setAssignment14/ur_pb_12_4.pg
@@ -202,9 +202,9 @@
       - setHypothesisTesting/MultipleTesting.pg
       - setHypothesisTesting/drug.pg
 -
-  title: Week 10
-  open_date: 2014-12-08 12:00:00 -7
-  close_date: 2014-12-15 12:00:00 -7
+  title: Week10
+  open_date: 2014-12-08 12:00:00 -8
+  close_date: 2014-12-15 12:00:00 -8
   problems:
     RandomizedAlgs:
       - setAssignment20/probs94.pg
