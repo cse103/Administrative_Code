@@ -44,7 +44,7 @@ def organize_assignments(description_file, base_path, output_path):
         data = yaml.load(f)
         for assignment in data:
             print assignment['title']
-            def_path = os.path.join(output_path, "{0}.def".format(assignment['title']))
+            def_path = os.path.join(output_path, "set{0}.def".format(assignment['title']))
             with open(def_path, 'w') as def_file:
                 def_file.write("openDate          = {0}\n".format(
                     assignment['open_date'].strftime('%m/%d/%Y at %I:%M%p %Z')))
