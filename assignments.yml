@@ -1,0 +1,214 @@
+---
+-
+  title: Week 1
+  open_date: 2014-10-6 12:00:00 -7
+  close_date: 2014-10-13 12:00:00 -7
+  problems:
+    Orientation:
+      - setOrientation/prob01.pg
+      - setOrientation/prob02.pg
+      - setOrientation/prob03.pg
+      - setOrientation/prob04.pg
+      - setOrientation/prob05/prob05.pg
+      - setOrientation/prob06.pg
+      - setOrientation/prob07.pg
+      - setOrientation/prob08.pg
+      - setOrientation/prob09.pg
+      - setOrientation/prob10.pg
+      - setOrientation/prob11.pg
+      - setOrientation/prob12.pg
+      - setOrientation/prob13.pg
+      - setOrientation/prob14/prob14.pg
+      - setOrientation/prob15.pg
+    Sets:
+      - setCombinatorics/BasicSets_1.pg
+      - setCombinatorics/BasicSets_2.pg
+      - setCombinatorics/BasicSets_3.pg
+      - yuncong_class0/q2.pg
+      - setCombinatorics/BasicSets1.pg
+      - setCombinatorics/ClassSize.pg
+
+-
+  title: Week 2
+  open_date: 2014-10-13 12:00:00 -7
+  close_date: 2014-10-20 12:00:00 -7
+  problems:
+    UniformDiscrete:
+      - setCombinatorics/UniformDist.pg
+      - yuncong_class0/q4.pg
+      - setCombinatorics/UniformDist1.pg
+      - setCombinatorics/UniformDist2.pg
+      - setCombinatorics/UniformDist3.pg
+    Combinatorics:
+      - local/setCombinatorics/p10.pg
+      - local/Library/ASU-topics/setCount/sw10_2_14_PGML.pg
+      - local/setCombinatorics/p11.pg
+      - local/Library/ASU-topics/setCount/sw10_1_33.pg
+      - local/Library/ASU-topics/setCount/sw10_2_21_PGML.pg
+      - local/Library/ASU-topics/setCount/sw10_1_7.pg
+      - local/Library/ASU-topics/setCount/p12.pg
+      - local/Library/ASU-topics/setCount/sw10_1_21_pgml.pg
+      - Library/ASU-topics/setCount/sw10_2_22.pg
+      - Library/ASU-topics/setCount/sw10_2_52.pg
+-
+  title: Week 3
+  open_date: 2014-10-20 12:00:00 -7
+  close_date: 2014-10-27 12:00:00 -7
+  problems:
+    Poker:
+      - local/setAssignment3Rerandomized/q4_1.pg
+      - local/setAssignment3Rerandomized/q4_4.pg
+      - local/setAssignment3Rerandomized/q4_5.pg
+      - local/setAssignment3/q4_0.pg
+      - local/setAssignment3/q4_9.pg
+      - setAssignment3/q1.pg
+      - setAssignment3/q2.pg
+      - setAssignment3/q3.pg
+      - local/setAssignment3/q4_1.pg
+      - local/setAssignment3/q4_2.pg
+      - local/setAssignment3/q4_3.pg
+      - local/setAssignment3/q4_4.pg
+      - local/setAssignment3/q4_5.pg
+      - local/setAssignment3/q4_6.pg
+      - local/setAssignment3/q4_7.pg
+      - local/setAssignment3/q4_8.pg
+    InfiniteSums:
+      - local/setIntro.readingTest/Reading5.Matching.pg
+      - local/setIntro.readingTest/Reading5.trueFalse.pg
+    CumulativeDistributionFunctions:
+      - setAssignment10.23.13/cdf_rs.pg
+      - setmelkherj/cumulative_uniform_masses_1.pg
+      - setmelkherj/cumulative_uniform_masses_2.pg
+      - setmelkherj/cumulative_uniform_masses_5.pg
+      - setCDF/cdf_random.pg
+      - setCDF/cdf_random.pg
+      - setCDF/cdf_random.pg
+
+-
+  title: Combinatorics/Probability
+  open_date: 2014-10-27 12:00:00 -7
+  close_date: 2014-11-03 12:00:00 -7
+  problems:
+    Combinatorics:
+      - setProbability/coinProblems.pg
+      - local/setCombinatorics/GrinsteadSnell3.2.10.pg
+      - local/setCombinatorics/GrinsteadSnell3.2.18.pg
+      - setCombinatorics/DiscreteProb1.pg
+      - setCombinatorics/Cards1.pg
+      - local/yuncong_class0/q1.pg
+      - local/yuncong_class0/q5.pg
+      - setCombinatorics/withoutReplacementExplanation.pg
+      - local/setCombinatorics/PigeonHole_PGML_ZZ.pg
+      - setCombinatorics/BinomialCoeffExplanation.pg
+      - local/yuncong_class0/q6.pg
+    StarsAndBars:
+      - setCombinatorics/ChoosingCandies.pg
+      - setCombinatorics/ShareCandy_ZZ.pg
+      - setCombinatorics/TreatBags_ZZ.pg
+      - setexperimentalProblems/balls_bins_1_rs.pg
+      - setexperimentalProblems/balls_bins_2_rs.pg
+      - setCombinatorics/Envelopes1.pg
+-
+  title: Week 4
+  open_date: 2014-10-27 12:00:00 -7
+  close_date: 2014-11-03 12:00:00 -7
+  problems:
+    ConditionalProbability:
+      - setmelkherj/ContingencyTables6.pg
+      - setAssignment6/Independence_1.pg
+      - setAssignment6/Independence_2.pg
+      - setAssignment6/ConditionalProbability.pg
+    BayesConditional:
+      - setAssignment6/BayesBurglary_ZZ.pg
+      - setAssignment7/probs_42_with_randomization.pg
+      - setAssignment7/probs_43_with_randomization.pg
+    Combinatorics:
+      - setCombinatorics/Tuples.pg
+    PokerConditional:
+      - setPokerCondProb/poker_cond4_1.pg
+      - setPokerCondProb/poker_cond4_2.pg
+      - setPokerCondProb/poker_cond5_1.pg
+      - setPokerCondProb/poker_cond5_2.pg
+      - setPokerCondProb/poker_cond2_1.pg
+      - setPokerCondProb/poker_cond2_2.pg
+      - setPokerCondProb/poker_cond3.pg
+      - setPokerCondProb/poker_cond6_1.pg
+      - setPokerCondProb/poker_cond6_2.pg
+
+-
+  title: Week 5
+  open_date: 2014-11-03 12:00:00 -7
+  close_date: 2014-11-10 12:00:00 -7
+  problems:
+    ExpectationVariance:
+      - setAssignment7/Notes_3_2_1.pg
+      - setAssignment7/Notes_3_2_2.pg
+      - setAssignment9/Notes3_5_3.pg
+      - setAssignment10/probs70.pg
+      - setAssignment9/probs77.pg
+      - setAssignment10/probs69.pg
+      - setAssignment9/Notes3_5_2.pg
+      - setAssignment10.23.13/ExpVarOfSum.pg
+    MarkovChebyshev:
+      - setAssignment10.23.13/MarkovInequality.pg
+      - setChebyshev/chebyshev_1.pg
+      - local/setAssignment10.23.13/ChebyshevProblem.pg
+      - setAssignment10.23.13/RiggedDice.pg
+
+-
+  title: Week 8
+  open_date: 2014-11-17 12:00:00 -7
+  close_date: 2014-11-24 12:00:00 -7
+  problems:
+    Covariance:
+      - setmelkherj/ContingencyTables1.pg
+      - setmelkherj/ContingencyTables2.pg
+      - setmelkherj/ContingencyTables5.pg
+      - setmelkherj/ContingencyTables7.pg
+      - setmelkherj/ContingencyTables8.pg
+      - setAssignment11.06.13/2.pg
+      - setAssignment11.06.13/1.pg
+    ExponentialPoisson:
+      - setExponentialDist/ur_pb_14_1.pg
+      - setExponentialDist/stat212-HW06-20.pg
+      - setExponentialDist/poisson_zz.pg
+      - setExponentialDist/stat212-HW06-17.pg
+      - setExponentialDist/ur_pb_9_4.pg
+      - setExponentialDist/ur_pb_9_1.pg
+      - setExponentialDist/ur_pb_9_2.pg
+      - setexperimentalProblems/poisson_rs.pg
+
+-
+  title: Week 9
+  open_date: 2014-11-24 12:00:00 -7
+  close_date: 2014-12-01 12:00:00 -7
+  problems:
+    CentralLimitTheorem:
+      - setAssignment14/ur_pb_12_4.pg
+      - setAssignment14/ur_pb_11_7.pg
+      - setAssignment14/ur_pb_12_3.pg
+      - setAssignment14/ur_pb_11_1.pg
+      - setAssignment14/ur_pb_11_3.pg
+      - setAssignment11.04.13/clt_demo.pg
+    HypothesisTesting:
+      - setAssignment17/seatbelt.pg
+      - setAssignment17/error.pg
+      - setAssignment17/psychic.pg
+      - setAssignment17/paired_t_test.pg
+      - setAssignment17/pooled.pg
+      - setHypothesisTesting/gust63.pg
+      - setHypothesisTesting/gust75.pg
+      - local/Library/Rochester/setStatistics4HypothesisTesting/ur_stt_4_1.pg
+      - setHypothesisTesting/MultipleTesting.pg
+      - setHypothesisTesting/drug.pg
+-
+  title: Week 10
+  open_date: 2014-12-08 12:00:00 -7
+  close_date: 2014-12-15 12:00:00 -7
+  problems:
+    RandomizedAlgs:
+      - setAssignment20/probs94.pg
+      - setAssignment18/RandAlgs_2_1.pg
+      - setAssignment18/RandAlgs_2_2.pg
+      - setAssignment19/Hashing_1.pg
+      - setAssignment19/Hashing_2.pg
