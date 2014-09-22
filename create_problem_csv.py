@@ -27,6 +27,7 @@ def organize_assignments(description_file, output_path):
         os.makedirs(output_path)
     out_path = os.path.join(output_path, 'set_assignments.csv')
     with open(description_file, 'r') as f, open(out_path, 'w') as outf:
+        outf.write('"Set Name","PG File Path"\n')
         data = yaml.load(f)
         for assignment in data:
             print assignment['title']
@@ -37,7 +38,7 @@ def organize_assignments(description_file, output_path):
                     filename = os.path.basename(problem_path)
                     new_path = os.path.join(output_path, topic, filename)
                     logger.info("New path: %s", new_path)
-                    outf.write('"{0}",\t"{1}"\n'.format(assignment['title'], new_path))
+                    outf.write('"{0}","{1}"\n'.format(assignment['title'], new_path))
             print
 
 if __name__ == '__main__':
