@@ -1,8 +1,8 @@
 ---
 -
-  title: Week1
-  open_date: 2014-10-6 12:00:00 -7
-  close_date: 2014-10-13 12:00:00 -7
+  title: Week0
+  open_date: 2014-10-01 12:00:00 -7
+  close_date: 2014-10-08 12:00:00 -7
   problems:
     Orientation:
       - setOrientation/prob01.pg
@@ -20,6 +20,18 @@
       - setOrientation/prob13.pg
       - setOrientation/prob14/prob14.pg
       - setOrientation/prob15.pg
+    EventSpace:
+      - local/setBasicExamples/event_tree_1.pg
+      - local/setBasicExamples/event_tree_2.pg
+      - local/setBasicExamples/event_tree_3.pg
+      - local/setBasicExamples/event_tree_4.pg
+      - local/setBasicExamples/event_tree_5.pg
+      - local/setBasicExamples/event_tree_6.pg
+-
+  title: Week1
+  open_date: 2014-10-8 12:00:00 -7
+  close_date: 2014-10-15 12:00:00 -7
+  problems:
     Sets:
       - setCombinatorics/BasicSets_1.pg
       - setCombinatorics/BasicSets_2.pg
@@ -30,8 +42,8 @@
 
 -
   title: Week2
-  open_date: 2014-10-13 12:00:00 -7
-  close_date: 2014-10-20 12:00:00 -7
+  open_date: 2014-10-15 12:00:00 -7
+  close_date: 2014-10-22 12:00:00 -7
   problems:
     UniformDiscrete:
       - setCombinatorics/UniformDist.pg
@@ -52,8 +64,8 @@
       - Library/ASU-topics/setCount/sw10_2_52.pg
 -
   title: Week3
-  open_date: 2014-10-20 12:00:00 -7
-  close_date: 2014-10-27 12:00:00 -7
+  open_date: 2014-10-22 12:00:00 -7
+  close_date: 2014-10-29 12:00:00 -7
   problems:
     Poker:
       - local/setAssignment3Rerandomized/q4_1.pg
@@ -84,10 +96,12 @@
       - setCDF/cdf_random.pg
       - setCDF/cdf_random.pg
 
--
+- 
   title: CombinatoricsProbability
-  open_date: 2014-10-27 12:00:00 -7
-  close_date: 2014-11-03 12:00:00 -7
+  # These may have been misplaced from Week 2,
+  # or they might be review problems?
+  open_date: 2014-10-15 12:00:00 -7
+  close_date: 2014-11-22 12:00:00 -7
   problems:
     Combinatorics:
       - setProbability/coinProblems.pg
@@ -110,8 +124,8 @@
       - setCombinatorics/Envelopes1.pg
 -
   title: Week4
-  open_date: 2014-10-27 12:00:00 -7
-  close_date: 2014-11-03 12:00:00 -7
+  open_date: 2014-10-29 12:00:00 -7
+  close_date: 2014-11-05 12:00:00 -7
   problems:
     ConditionalProbability:
       - setmelkherj/ContingencyTables6.pg
@@ -137,8 +151,8 @@
 
 -
   title: Week5
-  open_date: 2014-11-03 12:00:00 -8
-  close_date: 2014-11-10 12:00:00 -8
+  open_date: 2014-11-05 12:00:00 -8
+  close_date: 2014-11-12 12:00:00 -8
   problems:
     ExpectationVariance:
       - setAssignment7/Notes_3_2_1.pg
@@ -156,9 +170,9 @@
       - setAssignment10.23.13/RiggedDice.pg
 
 -
-  title: Week7
-  open_date: 2014-11-17 12:00:00 -8
-  close_date: 2014-11-24 12:00:00 -8
+  title: Week6
+  open_date: 2014-11-12 12:00:00 -8
+  close_date: 2014-11-19 12:00:00 -8
   problems:
     Covariance:
       - setmelkherj/ContingencyTables1.pg
@@ -179,9 +193,9 @@
       - setexperimentalProblems/poisson_rs.pg
 
 -
-  title: Week9
-  open_date: 2014-11-24 12:00:00 -8
-  close_date: 2014-12-01 12:00:00 -8
+  title: Week7
+  open_date: 2014-11-19 12:00:00 -8
+  close_date: 2014-11-26 12:00:00 -8
   problems:
     CentralLimitTheorem:
       - setAssignment14/ur_pb_12_4.pg
@@ -202,9 +216,9 @@
       - setHypothesisTesting/MultipleTesting.pg
       - setHypothesisTesting/drug.pg
 -
-  title: Week10
-  open_date: 2014-12-08 12:00:00 -8
-  close_date: 2014-12-15 12:00:00 -8
+  title: Week8
+  open_date: 2014-11-26 12:00:00 -8
+  close_date: 2014-12-03 12:00:00 -8
   problems:
     RandomizedAlgs:
       - setAssignment20/probs94.pg
