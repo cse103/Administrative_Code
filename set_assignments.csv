@@ -1,150 +1,1 @@
-"Set Name","PG File Path"
-"Week1","Reorganized/Orientation/prob01.pg"
-"Week1","Reorganized/Orientation/prob02.pg"
-"Week1","Reorganized/Orientation/prob03.pg"
-"Week1","Reorganized/Orientation/prob04/prob04.pg"
-"Week1","Reorganized/Orientation/prob05.pg"
-"Week1","Reorganized/Orientation/prob06.pg"
-"Week1","Reorganized/Orientation/prob07.pg"
-"Week1","Reorganized/Orientation/prob08.pg"
-"Week1","Reorganized/Orientation/prob09.pg"
-"Week1","Reorganized/Orientation/prob10.pg"
-"Week1","Reorganized/Orientation/prob11.pg"
-"Week1","Reorganized/Orientation/prob12.pg"
-"Week1","Reorganized/Orientation/prob13.pg"
-"Week1","Reorganized/Orientation/prob14/prob14.pg"
-"Week1","Reorganized/Orientation/prob15.pg"
-"Week1","Reorganized/EventSpace/event_tree_1.pg"
-"Week1","Reorganized/EventSpace/event_tree_2.pg"
-"Week1","Reorganized/EventSpace/event_tree_3.pg"
-"Week1","Reorganized/EventSpace/event_tree_4.pg"
-"Week1","Reorganized/EventSpace/event_tree_5.pg"
-"Week1","Reorganized/EventSpace/event_tree_6.pg"
-"Week2","Reorganized/Sets/BasicSets_1.pg"
-"Week2","Reorganized/Sets/BasicSets_2.pg"
-"Week2","Reorganized/Sets/BasicSets_3.pg"
-"Week2","Reorganized/Sets/q2.pg"
-"Week2","Reorganized/Sets/BasicSets1.pg"
-"Week2","Reorganized/Sets/ClassSize.pg"
-"Week3","Reorganized/Combinatorics/p10.pg"
-"Week3","Reorganized/Combinatorics/sw10_2_14_PGML.pg"
-"Week3","Reorganized/Combinatorics/p11.pg"
-"Week3","Reorganized/Combinatorics/sw10_1_33.pg"
-"Week3","Reorganized/Combinatorics/sw10_2_21_PGML.pg"
-"Week3","Reorganized/Combinatorics/sw10_1_7.pg"
-"Week3","Reorganized/Combinatorics/p12.pg"
-"Week3","Reorganized/Combinatorics/sw10_1_21_pgml.pg"
-"Week3","Reorganized/Combinatorics/sw10_2_22.pg"
-"Week3","Reorganized/Combinatorics/sw10_2_52.pg"
-"Week3","Reorganized/UniformDiscrete/UniformDist.pg"
-"Week3","Reorganized/UniformDiscrete/q4.pg"
-"Week3","Reorganized/UniformDiscrete/UniformDist1.pg"
-"Week3","Reorganized/UniformDiscrete/UniformDist2.pg"
-"Week3","Reorganized/UniformDiscrete/UniformDist3.pg"
-"Week4","Reorganized/Poker/q4_1.pg"
-"Week4","Reorganized/Poker/q4_4.pg"
-"Week4","Reorganized/Poker/q4_5.pg"
-"Week4","Reorganized/Poker/q4_0.pg"
-"Week4","Reorganized/Poker/q4_9.pg"
-"Week4","Reorganized/Poker/q1.pg"
-"Week4","Reorganized/Poker/q2.pg"
-"Week4","Reorganized/Poker/q3.pg"
-"Week4","Reorganized/Poker/q4_1.pg"
-"Week4","Reorganized/Poker/q4_2.pg"
-"Week4","Reorganized/Poker/q4_3.pg"
-"Week4","Reorganized/Poker/q4_4.pg"
-"Week4","Reorganized/Poker/q4_5.pg"
-"Week4","Reorganized/Poker/q4_6.pg"
-"Week4","Reorganized/Poker/q4_7.pg"
-"Week4","Reorganized/Poker/q4_8.pg"
-"Week4","Reorganized/InfiniteSums/Reading5.Matching.pg"
-"Week4","Reorganized/InfiniteSums/Reading5.trueFalse.pg"
-"Week4","Reorganized/CumulativeDistributionFunctions/cdf_rs.pg"
-"Week4","Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_1.pg"
-"Week4","Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_2.pg"
-"Week4","Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_5.pg"
-"Week4","Reorganized/CumulativeDistributionFunctions/cdf_random.pg"
-"Week4","Reorganized/CumulativeDistributionFunctions/cdf_random.pg"
-"Week4","Reorganized/CumulativeDistributionFunctions/cdf_random.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/coinProblems.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/GrinsteadSnell3.2.10.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/GrinsteadSnell3.2.18.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/DiscreteProb1.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/Cards1.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/q1.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/q5.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/withoutReplacementExplanation.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/PigeonHole_PGML_ZZ.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/BinomialCoeffExplanation.pg"
-"XCombinatoricsProbability","Reorganized/Combinatorics/q6.pg"
-"XCombinatoricsProbability","Reorganized/StarsAndBars/ChoosingCandies.pg"
-"XCombinatoricsProbability","Reorganized/StarsAndBars/ShareCandy_ZZ.pg"
-"XCombinatoricsProbability","Reorganized/StarsAndBars/TreatBags_ZZ.pg"
-"XCombinatoricsProbability","Reorganized/StarsAndBars/balls_bins_1_rs.pg"
-"XCombinatoricsProbability","Reorganized/StarsAndBars/balls_bins_2_rs.pg"
-"XCombinatoricsProbability","Reorganized/StarsAndBars/Envelopes1.pg"
-"Week5","Reorganized/BayesConditional/BayesBurglary_ZZ.pg"
-"Week5","Reorganized/BayesConditional/probs_42_with_randomization.pg"
-"Week5","Reorganized/BayesConditional/probs_43_with_randomization.pg"
-"Week5","Reorganized/Combinatorics/Tuples.pg"
-"Week5","Reorganized/ConditionalProbability/ContingencyTables6.pg"
-"Week5","Reorganized/ConditionalProbability/Independence_1.pg"
-"Week5","Reorganized/ConditionalProbability/Independence_2.pg"
-"Week5","Reorganized/ConditionalProbability/ConditionalProbability.pg"
-"Week5","Reorganized/PokerConditional/poker_cond4_1.pg"
-"Week5","Reorganized/PokerConditional/poker_cond4_2.pg"
-"Week5","Reorganized/PokerConditional/poker_cond5_1.pg"
-"Week5","Reorganized/PokerConditional/poker_cond5_2.pg"
-"Week5","Reorganized/PokerConditional/poker_cond2_1.pg"
-"Week5","Reorganized/PokerConditional/poker_cond2_2.pg"
-"Week5","Reorganized/PokerConditional/poker_cond3.pg"
-"Week5","Reorganized/PokerConditional/poker_cond6_1.pg"
-"Week5","Reorganized/PokerConditional/poker_cond6_2.pg"
-"Week6","Reorganized/MarkovChebyshev/MarkovInequality.pg"
-"Week6","Reorganized/MarkovChebyshev/chebyshev_1.pg"
-"Week6","Reorganized/MarkovChebyshev/ChebyshevProblem.pg"
-"Week6","Reorganized/MarkovChebyshev/RiggedDice.pg"
-"Week6","Reorganized/ExpectationVariance/Notes_3_2_1.pg"
-"Week6","Reorganized/ExpectationVariance/Notes_3_2_2.pg"
-"Week6","Reorganized/ExpectationVariance/Notes3_5_3.pg"
-"Week6","Reorganized/ExpectationVariance/probs70.pg"
-"Week6","Reorganized/ExpectationVariance/probs77.pg"
-"Week6","Reorganized/ExpectationVariance/probs69.pg"
-"Week6","Reorganized/ExpectationVariance/Notes3_5_2.pg"
-"Week6","Reorganized/ExpectationVariance/ExpVarOfSum.pg"
-"Week7","Reorganized/ExponentialPoisson/ur_pb_14_1.pg"
-"Week7","Reorganized/ExponentialPoisson/stat212-HW06-20.pg"
-"Week7","Reorganized/ExponentialPoisson/poisson_zz.pg"
-"Week7","Reorganized/ExponentialPoisson/stat212-HW06-17.pg"
-"Week7","Reorganized/ExponentialPoisson/ur_pb_9_4.pg"
-"Week7","Reorganized/ExponentialPoisson/ur_pb_9_1.pg"
-"Week7","Reorganized/ExponentialPoisson/ur_pb_9_2.pg"
-"Week7","Reorganized/ExponentialPoisson/poisson_rs.pg"
-"Week7","Reorganized/Covariance/ContingencyTables1.pg"
-"Week7","Reorganized/Covariance/ContingencyTables2.pg"
-"Week7","Reorganized/Covariance/ContingencyTables5.pg"
-"Week7","Reorganized/Covariance/ContingencyTables7.pg"
-"Week7","Reorganized/Covariance/ContingencyTables8.pg"
-"Week7","Reorganized/Covariance/2.pg"
-"Week7","Reorganized/Covariance/1.pg"
-"Week8","Reorganized/CentralLimitTheorem/ur_pb_12_4.pg"
-"Week8","Reorganized/CentralLimitTheorem/ur_pb_11_7.pg"
-"Week8","Reorganized/CentralLimitTheorem/ur_pb_12_3.pg"
-"Week8","Reorganized/CentralLimitTheorem/ur_pb_11_1.pg"
-"Week8","Reorganized/CentralLimitTheorem/ur_pb_11_3.pg"
-"Week8","Reorganized/CentralLimitTheorem/clt_demo.pg"
-"Week8","Reorganized/HypothesisTesting/seatbelt.pg"
-"Week8","Reorganized/HypothesisTesting/error.pg"
-"Week8","Reorganized/HypothesisTesting/psychic.pg"
-"Week8","Reorganized/HypothesisTesting/paired_t_test.pg"
-"Week8","Reorganized/HypothesisTesting/pooled.pg"
-"Week8","Reorganized/HypothesisTesting/gust63.pg"
-"Week8","Reorganized/HypothesisTesting/gust75.pg"
-"Week8","Reorganized/HypothesisTesting/ur_stt_4_1.pg"
-"Week8","Reorganized/HypothesisTesting/MultipleTesting.pg"
-"Week8","Reorganized/HypothesisTesting/drug.pg"
-"Week9","Reorganized/RandomizedAlgs/probs94.pg"
-"Week9","Reorganized/RandomizedAlgs/RandAlgs_2_1.pg"
-"Week9","Reorganized/RandomizedAlgs/RandAlgs_2_2.pg"
-"Week9","Reorganized/RandomizedAlgs/Hashing_1.pg"
-"Week9","Reorganized/RandomizedAlgs/Hashing_2.pg"
+Set Name,PG File Path,TopicWeek1,Reorganized/Orientation/prob01.pg,OrientationWeek1,Reorganized/Orientation/prob02.pg,OrientationWeek1,Reorganized/Orientation/prob03.pg,OrientationWeek1,Reorganized/Orientation/prob04/prob04.pg,OrientationWeek1,Reorganized/Orientation/prob05.pg,OrientationWeek1,Reorganized/Orientation/prob06.pg,OrientationWeek1,Reorganized/Orientation/prob07.pg,OrientationWeek1,Reorganized/Orientation/prob08.pg,OrientationWeek1,Reorganized/Orientation/prob09.pg,OrientationWeek1,Reorganized/Orientation/prob10.pg,OrientationWeek1,Reorganized/Orientation/prob11.pg,OrientationWeek1,Reorganized/Orientation/prob12.pg,OrientationWeek1,Reorganized/Orientation/prob13.pg,OrientationWeek1,Reorganized/Orientation/prob14/prob14.pg,OrientationWeek1,Reorganized/Orientation/prob15.pg,OrientationWeek1,Reorganized/EventSpace/event_tree_1.pg,Event SpaceWeek1,Reorganized/EventSpace/event_tree_2.pg,Event SpaceWeek1,Reorganized/EventSpace/event_tree_3.pg,Event SpaceWeek1,Reorganized/EventSpace/event_tree_4.pg,Event SpaceWeek1,Reorganized/EventSpace/event_tree_5.pg,Event SpaceWeek1,Reorganized/EventSpace/event_tree_6.pg,Event SpaceWeek2,Reorganized/Sets/BasicSets_1.pg,SetsWeek2,Reorganized/Sets/BasicSets_2.pg,SetsWeek2,Reorganized/Sets/BasicSets_3.pg,SetsWeek2,Reorganized/Sets/q2.pg,SetsWeek2,Reorganized/Sets/BasicSets1.pg,SetsWeek2,Reorganized/Sets/ClassSize.pg,SetsWeek3,Reorganized/Combinatorics/p10.pg,CombinatoricsWeek3,Reorganized/Combinatorics/sw10_2_14_PGML.pg,CombinatoricsWeek3,Reorganized/Combinatorics/p11.pg,CombinatoricsWeek3,Reorganized/Combinatorics/sw10_1_33.pg,CombinatoricsWeek3,Reorganized/Combinatorics/sw10_2_21_PGML.pg,CombinatoricsWeek3,Reorganized/Combinatorics/sw10_1_7.pg,CombinatoricsWeek3,Reorganized/Combinatorics/p12.pg,CombinatoricsWeek3,Reorganized/Combinatorics/sw10_1_21_pgml.pg,CombinatoricsWeek3,Reorganized/Combinatorics/sw10_2_22.pg,CombinatoricsWeek3,Reorganized/Combinatorics/sw10_2_52.pg,CombinatoricsWeek3,Reorganized/UniformDiscrete/UniformDist.pg,Uniform Discrete DistributionWeek3,Reorganized/UniformDiscrete/q4.pg,Uniform Discrete DistributionWeek3,Reorganized/UniformDiscrete/UniformDist1.pg,Uniform Discrete DistributionWeek3,Reorganized/UniformDiscrete/UniformDist2.pg,Uniform Discrete DistributionWeek3,Reorganized/UniformDiscrete/UniformDist3.pg,Uniform Discrete DistributionWeek4,Reorganized/Poker/q4_1.pg,PokerWeek4,Reorganized/Poker/q4_4.pg,PokerWeek4,Reorganized/Poker/q4_5.pg,PokerWeek4,Reorganized/Poker/q4_0.pg,PokerWeek4,Reorganized/Poker/q4_9.pg,PokerWeek4,Reorganized/Poker/q1.pg,PokerWeek4,Reorganized/Poker/q2.pg,PokerWeek4,Reorganized/Poker/q3.pg,PokerWeek4,Reorganized/Poker/q4_1.pg,PokerWeek4,Reorganized/Poker/q4_2.pg,PokerWeek4,Reorganized/Poker/q4_3.pg,PokerWeek4,Reorganized/Poker/q4_4.pg,PokerWeek4,Reorganized/Poker/q4_5.pg,PokerWeek4,Reorganized/Poker/q4_6.pg,PokerWeek4,Reorganized/Poker/q4_7.pg,PokerWeek4,Reorganized/Poker/q4_8.pg,PokerWeek4,Reorganized/InfiniteSums/Reading5.Matching.pg,Infinite SumsWeek4,Reorganized/InfiniteSums/Reading5.trueFalse.pg,Infinite SumsWeek4,Reorganized/CumulativeDistributionFunctions/cdf_rs.pg,Cumulative Distribution FunctionsWeek4,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_1.pg,Cumulative Distribution FunctionsWeek4,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_2.pg,Cumulative Distribution FunctionsWeek4,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_5.pg,Cumulative Distribution FunctionsWeek4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution FunctionsWeek4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution FunctionsWeek4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution FunctionsXCombinatoricsProbability,Reorganized/Combinatorics/coinProblems.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/GrinsteadSnell3.2.10.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/GrinsteadSnell3.2.18.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/DiscreteProb1.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/Cards1.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/q1.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/q5.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/withoutReplacementExplanation.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/PigeonHole_PGML_ZZ.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/BinomialCoeffExplanation.pg,CombinatoricsXCombinatoricsProbability,Reorganized/Combinatorics/q6.pg,CombinatoricsXCombinatoricsProbability,Reorganized/StarsAndBars/ChoosingCandies.pg,Stars And BarsXCombinatoricsProbability,Reorganized/StarsAndBars/ShareCandy_ZZ.pg,Stars And BarsXCombinatoricsProbability,Reorganized/StarsAndBars/TreatBags_ZZ.pg,Stars And BarsXCombinatoricsProbability,Reorganized/StarsAndBars/balls_bins_1_rs.pg,Stars And BarsXCombinatoricsProbability,Reorganized/StarsAndBars/balls_bins_2_rs.pg,Stars And BarsXCombinatoricsProbability,Reorganized/StarsAndBars/Envelopes1.pg,Stars And BarsWeek5,Reorganized/BayesConditional/BayesBurglary_ZZ.pg,Bayes ConditionalWeek5,Reorganized/BayesConditional/probs_42_with_randomization.pg,Bayes ConditionalWeek5,Reorganized/BayesConditional/probs_43_with_randomization.pg,Bayes ConditionalWeek5,Reorganized/Combinatorics/Tuples.pg,CombinatoricsWeek5,Reorganized/ConditionalProbability/ContingencyTables6.pg,Conditional ProbabilityWeek5,Reorganized/ConditionalProbability/Independence_1.pg,Conditional ProbabilityWeek5,Reorganized/ConditionalProbability/Independence_2.pg,Conditional ProbabilityWeek5,Reorganized/ConditionalProbability/ConditionalProbability.pg,Conditional ProbabilityWeek5,Reorganized/PokerConditional/poker_cond4_1.pg,Poker ConditionalWeek5,Reorganized/PokerConditional/poker_cond4_2.pg,Poker ConditionalWeek5,Reorganized/PokerConditional/poker_cond5_1.pg,Poker ConditionalWeek5,Reorganized/PokerConditional/poker_cond5_2.pg,Poker ConditionalWeek5,Reorganized/PokerConditional/poker_cond2_1.pg,Poker ConditionalWeek5,Reorganized/PokerConditional/poker_cond2_2.pg,Poker ConditionalWeek5,Reorganized/PokerConditional/poker_cond3.pg,Poker ConditionalWeek5,Reorganized/PokerConditional/poker_cond6_1.pg,Poker ConditionalWeek5,Reorganized/PokerConditional/poker_cond6_2.pg,Poker ConditionalWeek6,Reorganized/MarkovChebyshev/MarkovInequality.pg,Markov ChebyshevWeek6,Reorganized/MarkovChebyshev/chebyshev_1.pg,Markov ChebyshevWeek6,Reorganized/MarkovChebyshev/ChebyshevProblem.pg,Markov ChebyshevWeek6,Reorganized/MarkovChebyshev/RiggedDice.pg,Markov ChebyshevWeek6,Reorganized/ExpectationVariance/Notes_3_2_1.pg,Expectation VarianceWeek6,Reorganized/ExpectationVariance/Notes_3_2_2.pg,Expectation VarianceWeek6,Reorganized/ExpectationVariance/Notes3_5_3.pg,Expectation VarianceWeek6,Reorganized/ExpectationVariance/probs70.pg,Expectation VarianceWeek6,Reorganized/ExpectationVariance/probs77.pg,Expectation VarianceWeek6,Reorganized/ExpectationVariance/probs69.pg,Expectation VarianceWeek6,Reorganized/ExpectationVariance/Notes3_5_2.pg,Expectation VarianceWeek6,Reorganized/ExpectationVariance/ExpVarOfSum.pg,Expectation VarianceWeek7,Reorganized/ExponentialPoisson/ur_pb_14_1.pg,Exponential PoissonWeek7,Reorganized/ExponentialPoisson/stat212-HW06-20.pg,Exponential PoissonWeek7,Reorganized/ExponentialPoisson/poisson_zz.pg,Exponential PoissonWeek7,Reorganized/ExponentialPoisson/stat212-HW06-17.pg,Exponential PoissonWeek7,Reorganized/ExponentialPoisson/ur_pb_9_4.pg,Exponential PoissonWeek7,Reorganized/ExponentialPoisson/ur_pb_9_1.pg,Exponential PoissonWeek7,Reorganized/ExponentialPoisson/ur_pb_9_2.pg,Exponential PoissonWeek7,Reorganized/ExponentialPoisson/poisson_rs.pg,Exponential PoissonWeek7,Reorganized/Covariance/ContingencyTables1.pg,CovarianceWeek7,Reorganized/Covariance/ContingencyTables2.pg,CovarianceWeek7,Reorganized/Covariance/ContingencyTables5.pg,CovarianceWeek7,Reorganized/Covariance/ContingencyTables7.pg,CovarianceWeek7,Reorganized/Covariance/ContingencyTables8.pg,CovarianceWeek7,Reorganized/Covariance/2.pg,CovarianceWeek7,Reorganized/Covariance/1.pg,CovarianceWeek8,Reorganized/CentralLimitTheorem/ur_pb_12_4.pg,Central Limit TheoremWeek8,Reorganized/CentralLimitTheorem/ur_pb_11_7.pg,Central Limit TheoremWeek8,Reorganized/CentralLimitTheorem/ur_pb_12_3.pg,Central Limit TheoremWeek8,Reorganized/CentralLimitTheorem/ur_pb_11_1.pg,Central Limit TheoremWeek8,Reorganized/CentralLimitTheorem/ur_pb_11_3.pg,Central Limit TheoremWeek8,Reorganized/CentralLimitTheorem/clt_demo.pg,Central Limit TheoremWeek8,Reorganized/HypothesisTesting/seatbelt.pg,Hypothesis TestingWeek8,Reorganized/HypothesisTesting/error.pg,Hypothesis TestingWeek8,Reorganized/HypothesisTesting/psychic.pg,Hypothesis TestingWeek8,Reorganized/HypothesisTesting/paired_t_test.pg,Hypothesis TestingWeek8,Reorganized/HypothesisTesting/pooled.pg,Hypothesis TestingWeek8,Reorganized/HypothesisTesting/gust63.pg,Hypothesis TestingWeek8,Reorganized/HypothesisTesting/gust75.pg,Hypothesis TestingWeek8,Reorganized/HypothesisTesting/ur_stt_4_1.pg,Hypothesis TestingWeek8,Reorganized/HypothesisTesting/MultipleTesting.pg,Hypothesis TestingWeek8,Reorganized/HypothesisTesting/drug.pg,Hypothesis TestingWeek9,Reorganized/RandomizedAlgs/probs94.pg,Randomized AlgorithmsWeek9,Reorganized/RandomizedAlgs/RandAlgs_2_1.pg,Randomized AlgorithmsWeek9,Reorganized/RandomizedAlgs/RandAlgs_2_2.pg,Randomized AlgorithmsWeek9,Reorganized/RandomizedAlgs/Hashing_1.pg,Randomized AlgorithmsWeek9,Reorganized/RandomizedAlgs/Hashing_2.pg,Randomized Algorithms
