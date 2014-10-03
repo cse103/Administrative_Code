@@ -20,6 +20,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Copy hints from old problems to new ones")
     parser.add_argument('--csv', help="Problem table", default="set_assignments.csv")
     parser.add_argument('--course', help="Course", default="CSE103_Fall14")
+    parser.add_argument('--old-course', help="Old course", default="UCSD_CSE103")
     parser.add_argument('-u', '--username', help="MySQL username", default="webworkWrite")
     parser.add_argument('-p', '--password', help="MySQL password", action='store_true')
     args = parser.parse_args()
@@ -49,6 +50,15 @@ if __name__ == '__main__':
                            Column('flags', Text)
     )
 
+    old_problems_table = Table("{0}_problem".format(args.old_course), metadata,
+                           Column('set_id', TINYBLOB, nullable=False),
+                           Column('problem_id', Integer, nullable=False),
+                           Column('source_file', Text),
+                           Column('value', Integer),
+                           Column('max_attempts', Integer),
+                           Column('flags', Text)
+    )
+
     df = pd.read_csv('set_assignments.csv')
     for index, problem in df.iterrows():
         print problem
@@ -56,9 +66,9 @@ if __name__ == '__main__':
             select([problems_table]).where(problems_table.c.source_file == problem['PG File Path'])).fetchone()
         print new_problem
         old_path = problem['Original Path']
-        old_problems = conn.execute(select([problems_table.c.set_id, problems_table.c.problem_id, problems_table.c.source_file]).where(problems_table.c.source_file==old_path))
+        old_problems = conn.execute(select([old_problems_table.c.set_id, old_problems_table.c.problem_id, old_problems_table.c.source_file]).where(old_problems_table.c.source_file==old_path))
         for old_problem in old_problems:
-            print old_problem
+            print "Old Problem:", old_problem
             old_hints = conn.execute(select([hints_table]).where(hints_table.c.set_id==old_problem.set_id).where(hints_table.c.problem_id == old_problem.problem_id))
             for hint in old_hints:
                 row_val = dict(hint.items())
