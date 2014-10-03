@@ -25,7 +25,7 @@ for set_id in sets:
         def_file.write("problemList       =\n")
 
         start_date = end_date
-        set_problems = df[df['Set Name']==set_id]['PG File Path']
-        for problem in set_problems:
-            def_file.write("{0}\n".format(problem))
-
+        set_problems = df[df['Set Name']==set_id]
+        for index, problem in set_problems.iterrows():
+            if problem['Used'] == 1:
+                def_file.write("{0}\n".format(problem['PG File Path']))
