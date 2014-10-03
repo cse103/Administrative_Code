@@ -41,6 +41,23 @@ Week3,Reorganized/UniformDiscrete/q4.pg,Uniform Discrete Distribution,1,yuncong_
 Week3,Reorganized/UniformDiscrete/UniformDist1.pg,Uniform Discrete Distribution,1,setCombinatorics/UniformDist1.pg
 Week3,Reorganized/UniformDiscrete/UniformDist2.pg,Uniform Discrete Distribution,1,setCombinatorics/UniformDist2.pg
 Week3,Reorganized/UniformDiscrete/UniformDist3.pg,Uniform Discrete Distribution,1,setCombinatorics/UniformDist3.pg
+Week3,Reorganized/Combinatorics/coinProblems.pg,Combinatorics,1,setProbability/coinProblems.pg
+Week3,Reorganized/Combinatorics/GrinsteadSnell3.2.10.pg,Combinatorics,1,local/setCombinatorics/GrinsteadSnell3.2.10.pg
+Week3,Reorganized/Combinatorics/GrinsteadSnell3.2.18.pg,Combinatorics,1,local/setCombinatorics/GrinsteadSnell3.2.18.pg
+Week3,Reorganized/Combinatorics/DiscreteProb1.pg,Combinatorics,1,setCombinatorics/DiscreteProb1.pg
+Week3,Reorganized/Combinatorics/Cards1.pg,Combinatorics,1,setCombinatorics/Cards1.pg
+Week3,Reorganized/Combinatorics/q1.pg,Combinatorics,1,local/yuncong_class0/q1.pg
+Week3,Reorganized/Combinatorics/q5.pg,Combinatorics,1,local/yuncong_class0/q5.pg
+Week3,Reorganized/Combinatorics/withoutReplacementExplanation.pg,Combinatorics,1,setCombinatorics/withoutReplacementExplanation.pg
+Week3,Reorganized/Combinatorics/PigeonHole_PGML_ZZ.pg,Combinatorics,1,local/setCombinatorics/PigeonHole_PGML_ZZ.pg
+Week3,Reorganized/Combinatorics/BinomialCoeffExplanation.pg,Combinatorics,1,setCombinatorics/BinomialCoeffExplanation.pg
+Week3,Reorganized/Combinatorics/q6.pg,Combinatorics,1,local/yuncong_class0/q6.pg
+Week3,Reorganized/StarsAndBars/ChoosingCandies.pg,Stars And Bars,1,setCombinatorics/ChoosingCandies.pg
+Week3,Reorganized/StarsAndBars/ShareCandy_ZZ.pg,Stars And Bars,1,setCombinatorics/ShareCandy_ZZ.pg
+Week3,Reorganized/StarsAndBars/TreatBags_ZZ.pg,Stars And Bars,1,setCombinatorics/TreatBags_ZZ.pg
+Week3,Reorganized/StarsAndBars/balls_bins_1_rs.pg,Stars And Bars,1,setexperimentalProblems/balls_bins_1_rs.pg
+Week3,Reorganized/StarsAndBars/balls_bins_2_rs.pg,Stars And Bars,1,setexperimentalProblems/balls_bins_2_rs.pg
+Week3,Reorganized/StarsAndBars/Envelopes1.pg,Stars And Bars,1,setCombinatorics/Envelopes1.pg
 Week4,Reorganized/Poker/q4_1.pg,Poker,1,local/setAssignment3Rerandomized/q4_1.pg
 Week4,Reorganized/Poker/q4_4.pg,Poker,1,local/setAssignment3Rerandomized/q4_4.pg
 Week4,Reorganized/Poker/q4_5.pg,Poker,1,local/setAssignment3Rerandomized/q4_5.pg
@@ -66,23 +83,6 @@ Week4,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_5.pg
 Week4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,1,setCDF/cdf_random.pg
 Week4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,1,setCDF/cdf_random.pg
 Week4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,1,setCDF/cdf_random.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/coinProblems.pg,Combinatorics,1,setProbability/coinProblems.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/GrinsteadSnell3.2.10.pg,Combinatorics,1,local/setCombinatorics/GrinsteadSnell3.2.10.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/GrinsteadSnell3.2.18.pg,Combinatorics,1,local/setCombinatorics/GrinsteadSnell3.2.18.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/DiscreteProb1.pg,Combinatorics,1,setCombinatorics/DiscreteProb1.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/Cards1.pg,Combinatorics,1,setCombinatorics/Cards1.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/q1.pg,Combinatorics,1,local/yuncong_class0/q1.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/q5.pg,Combinatorics,1,local/yuncong_class0/q5.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/withoutReplacementExplanation.pg,Combinatorics,1,setCombinatorics/withoutReplacementExplanation.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/PigeonHole_PGML_ZZ.pg,Combinatorics,1,local/setCombinatorics/PigeonHole_PGML_ZZ.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/BinomialCoeffExplanation.pg,Combinatorics,1,setCombinatorics/BinomialCoeffExplanation.pg
-XCombinatoricsProbability,Reorganized/Combinatorics/q6.pg,Combinatorics,1,local/yuncong_class0/q6.pg
-XCombinatoricsProbability,Reorganized/StarsAndBars/ChoosingCandies.pg,Stars And Bars,1,setCombinatorics/ChoosingCandies.pg
-XCombinatoricsProbability,Reorganized/StarsAndBars/ShareCandy_ZZ.pg,Stars And Bars,1,setCombinatorics/ShareCandy_ZZ.pg
-XCombinatoricsProbability,Reorganized/StarsAndBars/TreatBags_ZZ.pg,Stars And Bars,1,setCombinatorics/TreatBags_ZZ.pg
-XCombinatoricsProbability,Reorganized/StarsAndBars/balls_bins_1_rs.pg,Stars And Bars,1,setexperimentalProblems/balls_bins_1_rs.pg
-XCombinatoricsProbability,Reorganized/StarsAndBars/balls_bins_2_rs.pg,Stars And Bars,1,setexperimentalProblems/balls_bins_2_rs.pg
-XCombinatoricsProbability,Reorganized/StarsAndBars/Envelopes1.pg,Stars And Bars,1,setCombinatorics/Envelopes1.pg
 Week5,Reorganized/BayesConditional/BayesBurglary_ZZ.pg,Bayes Conditional,1,setAssignment6/BayesBurglary_ZZ.pg
 Week5,Reorganized/BayesConditional/probs_42_with_randomization.pg,Bayes Conditional,1,setAssignment7/probs_42_with_randomization.pg
 Week5,Reorganized/BayesConditional/probs_43_with_randomization.pg,Bayes Conditional,1,setAssignment7/probs_43_with_randomization.pg
