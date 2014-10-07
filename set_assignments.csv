@@ -21,27 +21,27 @@ Week1,Reorganized/EventSpace/event_tree_4.pg,Event Space,1,local/setBasicExample
 Week1,Reorganized/EventSpace/event_tree_5.pg,Event Space,1,local/setBasicExamples/event_tree_5.pg
 Week1,Reorganized/EventSpace/event_tree_6.pg,Event Space,1,local/setBasicExamples/event_tree_6.pg
 Week2,Reorganized/Sets/BasicSets_1.pg,Sets,1,setCombinatorics/BasicSets_1.pg
-Week2,Reorganized/Sets/BasicSets_2.pg,Sets,1,setCombinatorics/BasicSets_2.pg
-Week2,Reorganized/Sets/BasicSets_3.pg,Sets,1,setCombinatorics/BasicSets_3.pg
+Week2,Reorganized/Sets/BasicSets_2.pg,Sets,0,setCombinatorics/BasicSets_2.pg
+Week2,Reorganized/Sets/BasicSets_3.pg,Sets,0,setCombinatorics/BasicSets_3.pg
 Week2,Reorganized/Sets/q2.pg,Sets,1,yuncong_class0/q2.pg
 Week2,Reorganized/Sets/BasicSets1.pg,Sets,1,setCombinatorics/BasicSets1.pg
 Week2,Reorganized/Sets/ClassSize.pg,Sets,1,setCombinatorics/ClassSize.pg
-Week3,Reorganized/Combinatorics/p10.pg,Combinatorics,1,local/setCombinatorics/p10.pg
-Week3,Reorganized/Combinatorics/sw10_2_14_PGML.pg,Combinatorics,1,local/Library/ASU-topics/setCount/sw10_2_14_PGML.pg
-Week3,Reorganized/Combinatorics/p11.pg,Combinatorics,1,local/setCombinatorics/p11.pg
-Week3,Reorganized/Combinatorics/sw10_1_33.pg,Combinatorics,1,local/Library/ASU-topics/setCount/sw10_1_33.pg
-Week3,Reorganized/Combinatorics/sw10_2_21_PGML.pg,Combinatorics,1,local/Library/ASU-topics/setCount/sw10_2_21_PGML.pg
-Week3,Reorganized/Combinatorics/sw10_1_7.pg,Combinatorics,1,local/Library/ASU-topics/setCount/sw10_1_7.pg
-Week3,Reorganized/Combinatorics/p12.pg,Combinatorics,1,local/Library/ASU-topics/setCount/p12.pg
-Week3,Reorganized/Combinatorics/sw10_1_21_pgml.pg,Combinatorics,1,local/Library/ASU-topics/setCount/sw10_1_21_pgml.pg
-Week3,Reorganized/Combinatorics/sw10_2_22.pg,Combinatorics,1,Library/ASU-topics/setCount/sw10_2_22.pg
-Week3,Reorganized/Combinatorics/sw10_2_52.pg,Combinatorics,1,Library/ASU-topics/setCount/sw10_2_52.pg
-Week3,Reorganized/UniformDiscrete/UniformDist.pg,Uniform Discrete Distribution,1,setCombinatorics/UniformDist.pg
-Week3,Reorganized/UniformDiscrete/q4.pg,Uniform Discrete Distribution,1,yuncong_class0/q4.pg
-Week3,Reorganized/UniformDiscrete/UniformDist1.pg,Uniform Discrete Distribution,1,setCombinatorics/UniformDist1.pg
-Week3,Reorganized/UniformDiscrete/UniformDist2.pg,Uniform Discrete Distribution,1,setCombinatorics/UniformDist2.pg
-Week3,Reorganized/UniformDiscrete/UniformDist3.pg,Uniform Discrete Distribution,1,setCombinatorics/UniformDist3.pg
-Week3,Reorganized/Combinatorics/coinProblems.pg,Combinatorics,1,setProbability/coinProblems.pg
+Week2,Reorganized/Combinatorics/p10.pg,Combinatorics,1,local/setCombinatorics/p10.pg
+Week2,Reorganized/Combinatorics/sw10_2_14_PGML.pg,Combinatorics,1,local/Library/ASU-topics/setCount/sw10_2_14_PGML.pg
+Week2,Reorganized/Combinatorics/p11.pg,Combinatorics,0,local/setCombinatorics/p11.pg
+Week2,Reorganized/Combinatorics/sw10_1_33.pg,Combinatorics,0,local/Library/ASU-topics/setCount/sw10_1_33.pg
+Week2,Reorganized/Combinatorics/sw10_2_21_PGML.pg,Combinatorics,1,local/Library/ASU-topics/setCount/sw10_2_21_PGML.pg
+Week2,Reorganized/Combinatorics/sw10_1_7.pg,Combinatorics,0,local/Library/ASU-topics/setCount/sw10_1_7.pg
+Week2,Reorganized/Combinatorics/p12.pg,Combinatorics,1,local/Library/ASU-topics/setCount/p12.pg
+Week2,Reorganized/Combinatorics/sw10_1_21_pgml.pg,Combinatorics,1,local/Library/ASU-topics/setCount/sw10_1_21_pgml.pg
+Week2,Reorganized/Combinatorics/sw10_2_22.pg,Combinatorics,0,Library/ASU-topics/setCount/sw10_2_22.pg
+Week2,Reorganized/Combinatorics/sw10_2_52.pg,Combinatorics,1,Library/ASU-topics/setCount/sw10_2_52.pg
+Week2,Reorganized/UniformDiscrete/UniformDist.pg,Uniform Discrete Distribution,1,setCombinatorics/UniformDist.pg
+Week2,Reorganized/UniformDiscrete/q4.pg,Uniform Discrete Distribution,0,yuncong_class0/q4.pg
+Week2,Reorganized/UniformDiscrete/UniformDist1.pg,Uniform Discrete Distribution,0,setCombinatorics/UniformDist1.pg
+Week2,Reorganized/UniformDiscrete/UniformDist2.pg,Uniform Discrete Distribution,0,setCombinatorics/UniformDist2.pg
+Week2,Reorganized/UniformDiscrete/UniformDist3.pg,Uniform Discrete Distribution,1,setCombinatorics/UniformDist3.pg
+Week2,Reorganized/Combinatorics/coinProblems.pg,Combinatorics,1,setProbability/coinProblems.pg
 Week3,Reorganized/Combinatorics/GrinsteadSnell3.2.10.pg,Combinatorics,1,local/setCombinatorics/GrinsteadSnell3.2.10.pg
 Week3,Reorganized/Combinatorics/GrinsteadSnell3.2.18.pg,Combinatorics,1,local/setCombinatorics/GrinsteadSnell3.2.18.pg
 Week3,Reorganized/Combinatorics/DiscreteProb1.pg,Combinatorics,1,setCombinatorics/DiscreteProb1.pg
