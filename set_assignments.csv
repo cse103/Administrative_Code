@@ -58,22 +58,19 @@ Week3,Reorganized/StarsAndBars/TreatBags_ZZ.pg,Stars And Bars,0,setCombinatorics
 Week3,Reorganized/StarsAndBars/balls_bins_1_rs.pg,Stars And Bars,0,setexperimentalProblems/balls_bins_1_rs.pg
 Week3,Reorganized/StarsAndBars/balls_bins_2_rs.pg,Stars And Bars,0,setexperimentalProblems/balls_bins_2_rs.pg
 Week3,Reorganized/StarsAndBars/Envelopes1.pg,Stars And Bars,1,setCombinatorics/Envelopes1.pg
-Week3,Reorganized/Poker/q4_0.pg,Poker,1,local/setAssignment3/q4_0.pg
-Week3,Reorganized/Poker/q4_1.pg,Poker,1,local/setAssignment3Rerandomized/q4_1.pg
-Week3,Reorganized/Poker/q4_4.pg,Poker,0,local/setAssignment3Rerandomized/q4_4.pg
-Week3,Reorganized/Poker/q4_5.pg,Poker,0,local/setAssignment3Rerandomized/q4_5.pg
-Week3,Reorganized/Poker/q4_9.pg,Poker,1,local/setAssignment3/q4_9.pg
-Week3,Reorganized/Poker/q1.pg,Poker,1,setAssignment3/q1.pg
+Week3,Reorganized/Poker/q1.pg,Poker,0,setAssignment3/q1.pg
 Week3,Reorganized/Poker/q2.pg,Poker,1,setAssignment3/q2.pg
-Week3,Reorganized/Poker/q3.pg,Poker,1,setAssignment3/q3.pg
-Week3,Reorganized/Poker/q4_1.pg,Poker,1,local/setAssignment3/q4_1.pg
+Week3,Reorganized/Poker/q3.pg,Poker,0,setAssignment3/q3.pg
+Week3,Reorganized/Poker/q4_0.pg,Poker,1,local/setAssignment3/q4_0.pg
+Week3,Reorganized/Poker/q4_1.pg,Poker,0,local/setAssignment3/q4_1.pg
 Week3,Reorganized/Poker/q4_2.pg,Poker,1,local/setAssignment3/q4_2.pg
-Week3,Reorganized/Poker/q4_3.pg,Poker,1,local/setAssignment3/q4_3.pg
+Week3,Reorganized/Poker/q4_3.pg,Poker,0,local/setAssignment3/q4_3.pg
 Week3,Reorganized/Poker/q4_4.pg,Poker,1,local/setAssignment3/q4_4.pg
-Week3,Reorganized/Poker/q4_5.pg,Poker,1,local/setAssignment3/q4_5.pg
+Week3,Reorganized/Poker/q4_5.pg,Poker,0,local/setAssignment3/q4_5.pg
 Week3,Reorganized/Poker/q4_6.pg,Poker,1,local/setAssignment3/q4_6.pg
-Week3,Reorganized/Poker/q4_7.pg,Poker,1,local/setAssignment3/q4_7.pg
-Week3,Reorganized/Poker/q4_8.pg,Poker,1,local/setAssignment3/q4_8.pg
+Week3,Reorganized/Poker/q4_7.pg,Poker,0,local/setAssignment3/q4_7.pg
+Week3,Reorganized/Poker/q4_8.pg,Poker,0,local/setAssignment3/q4_8.pg
+Week3,Reorganized/Poker/q4_9.pg,Poker,0,local/setAssignment3/q4_9.pg
 Week4,Reorganized/InfiniteSums/Reading5.Matching.pg,Infinite Sums,1,local/setIntro.readingTest/Reading5.Matching.pg
 Week4,Reorganized/InfiniteSums/Reading5.trueFalse.pg,Infinite Sums,1,local/setIntro.readingTest/Reading5.trueFalse.pg
 Week4,Reorganized/CumulativeDistributionFunctions/cdf_rs.pg,Cumulative Distribution Functions,1,setAssignment10.23.13/cdf_rs.pg
