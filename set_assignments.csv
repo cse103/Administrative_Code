@@ -72,24 +72,24 @@ Week3,Reorganized/Poker/q4_7.pg,Poker,0,local/setAssignment3/q4_7.pg
 Week3,Reorganized/Poker/q4_8.pg,Poker,0,local/setAssignment3/q4_8.pg
 Week3,Reorganized/Poker/q4_9.pg,Poker,0,local/setAssignment3/q4_9.pg
 Week4,Reorganized/CumulativeDistributionFunctions/cdf_rs.pg,Cumulative Distribution Functions,1,setAssignment10.23.13/cdf_rs.pg
-Week4,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_1.pg,Cumulative Distribution Functions,1,setmelkherj/cumulative_uniform_masses_1.pg
-Week4,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_2.pg,Cumulative Distribution Functions,1,setmelkherj/cumulative_uniform_masses_2.pg
+Week4,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_1.pg,Cumulative Distribution Functions,0,setmelkherj/cumulative_uniform_masses_1.pg
+Week4,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_2.pg,Cumulative Distribution Functions,0,setmelkherj/cumulative_uniform_masses_2.pg
 Week4,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_5.pg,Cumulative Distribution Functions,1,setmelkherj/cumulative_uniform_masses_5.pg
 Week4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,1,setCDF/cdf_random.pg
-Week4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,1,setCDF/cdf_random.pg
-Week4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,1,setCDF/cdf_random.pg
+Week4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,0,setCDF/cdf_random.pg
+Week4,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,0,setCDF/cdf_random.pg
 Week4,Reorganized/BayesConditional/BayesBurglary_ZZ.pg,Bayes Conditional,1,setAssignment6/BayesBurglary_ZZ.pg
-Week4,Reorganized/BayesConditional/probs_42_with_randomization.pg,Bayes Conditional,1,setAssignment7/probs_42_with_randomization.pg
+Week4,Reorganized/BayesConditional/probs_42_with_randomization.pg,Bayes Conditional,0,setAssignment7/probs_42_with_randomization.pg
 Week4,Reorganized/BayesConditional/probs_43_with_randomization.pg,Bayes Conditional,1,setAssignment7/probs_43_with_randomization.pg
-Week4,Reorganized/Combinatorics/Tuples.pg,Combinatorics,1,setCombinatorics/Tuples.pg
+Week4,Reorganized/Combinatorics/Tuples.pg,Combinatorics,0,setCombinatorics/Tuples.pg
 Week4,Reorganized/PokerConditional/poker_cond4_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond4_1.pg
-Week4,Reorganized/PokerConditional/poker_cond4_2.pg,Poker Conditional,1,setPokerCondProb/poker_cond4_2.pg
+Week4,Reorganized/PokerConditional/poker_cond4_2.pg,Poker Conditional,0,setPokerCondProb/poker_cond4_2.pg
 Week4,Reorganized/PokerConditional/poker_cond5_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond5_1.pg
-Week4,Reorganized/PokerConditional/poker_cond5_2.pg,Poker Conditional,1,setPokerCondProb/poker_cond5_2.pg
+Week4,Reorganized/PokerConditional/poker_cond5_2.pg,Poker Conditional,0,setPokerCondProb/poker_cond5_2.pg
 Week4,Reorganized/PokerConditional/poker_cond2_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond2_1.pg
-Week4,Reorganized/PokerConditional/poker_cond2_2.pg,Poker Conditional,1,setPokerCondProb/poker_cond2_2.pg
+Week4,Reorganized/PokerConditional/poker_cond2_2.pg,Poker Conditional,0,setPokerCondProb/poker_cond2_2.pg
 Week4,Reorganized/PokerConditional/poker_cond3.pg,Poker Conditional,1,setPokerCondProb/poker_cond3.pg
-Week4,Reorganized/PokerConditional/poker_cond6_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond6_1.pg
+Week4,Reorganized/PokerConditional/poker_cond6_1.pg,Poker Conditional,0,setPokerCondProb/poker_cond6_1.pg
 Week4,Reorganized/PokerConditional/poker_cond6_2.pg,Poker Conditional,1,setPokerCondProb/poker_cond6_2.pg
 Week5,Reorganized/InfiniteSums/Reading5.Matching.pg,Infinite Sums,1,local/setIntro.readingTest/Reading5.Matching.pg
 Week5,Reorganized/InfiniteSums/Reading5.trueFalse.pg,Infinite Sums,1,local/setIntro.readingTest/Reading5.trueFalse.pg
