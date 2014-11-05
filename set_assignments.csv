@@ -91,7 +91,6 @@ Week4,Reorganized/PokerConditional/poker_cond2_2.pg,Poker Conditional,0,setPoker
 Week4,Reorganized/PokerConditional/poker_cond3.pg,Poker Conditional,1,setPokerCondProb/poker_cond3.pg
 Week4,Reorganized/PokerConditional/poker_cond6_1.pg,Poker Conditional,0,setPokerCondProb/poker_cond6_1.pg
 Week4,Reorganized/PokerConditional/poker_cond6_2.pg,Poker Conditional,1,setPokerCondProb/poker_cond6_2.pg
-
 Week5,Reorganized/InfiniteSums/Reading5.Matching.pg,Infinite Sums,0,local/setIntro.readingTest/Reading5.Matching.pg
 Week5,Reorganized/InfiniteSums/Reading5.trueFalse.pg,Infinite Sums,0,local/setIntro.readingTest/Reading5.trueFalse.pg
 Week5,Reorganized/ConditionalProbability/ContingencyTables6.pg,Conditional Probability,0,setmelkherj/ContingencyTables6.pg
@@ -141,7 +140,6 @@ Week7,Reorganized/ExponentialPoisson/ur_pb_9_2.pg,Exponential Poisson,1,setExpon
 Week7,Reorganized/ExponentialPoisson/poisson_rs.pg,Exponential Poisson,1,setexperimentalProblems/poisson_rs.pg
 Week7,Reorganized/Covariance/1.pg,Covariance,1,setAssignment11.06.13/1.pg
 Week7,Reorganized/ExpectationVariance/probs77.pg,Expectation Variance,1,setAssignment9/probs77.pg
-
 Week9,Reorganized/RandomizedAlgs/probs94.pg,Randomized Algorithms,1,setAssignment20/probs94.pg
 Week9,Reorganized/RandomizedAlgs/RandAlgs_2_1.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_1.pg
 Week9,Reorganized/RandomizedAlgs/RandAlgs_2_2.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_2.pg
