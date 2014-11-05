@@ -91,6 +91,7 @@ Week4,Reorganized/PokerConditional/poker_cond2_2.pg,Poker Conditional,0,setPoker
 Week4,Reorganized/PokerConditional/poker_cond3.pg,Poker Conditional,1,setPokerCondProb/poker_cond3.pg
 Week4,Reorganized/PokerConditional/poker_cond6_1.pg,Poker Conditional,0,setPokerCondProb/poker_cond6_1.pg
 Week4,Reorganized/PokerConditional/poker_cond6_2.pg,Poker Conditional,1,setPokerCondProb/poker_cond6_2.pg
+
 Week5,Reorganized/InfiniteSums/Reading5.Matching.pg,Infinite Sums,0,local/setIntro.readingTest/Reading5.Matching.pg
 Week5,Reorganized/InfiniteSums/Reading5.trueFalse.pg,Infinite Sums,0,local/setIntro.readingTest/Reading5.trueFalse.pg
 Week5,Reorganized/ConditionalProbability/ContingencyTables6.pg,Conditional Probability,0,setmelkherj/ContingencyTables6.pg
@@ -111,35 +112,36 @@ Week5,Reorganized/Covariance/ContingencyTables8.pg,Covariance,0,setmelkherj/Cont
 Week5,Reorganized/Covariance/2.pg,Covariance,0,setAssignment11.06.13/2.pg
 Week5,Reorganized/ExponentialPoisson/ur_pb_14_1.pg,Exponential Poisson,1,setExponentialDist/ur_pb_14_1.pg
 Week5,Reorganized/ExponentialPoisson/stat212-HW06-20.pg,Exponential Poisson,1,setExponentialDist/stat212-HW06-20.pg
-Week6,Reorganized/ExpectationVariance/probs70.pg,Expectation Variance,1,setAssignment10/probs70.pg
-Week6,Reorganized/ExpectationVariance/probs69.pg,Expectation Variance,1,setAssignment10/probs69.pg
-Week6,Reorganized/ExpectationVariance/Notes3_5_2.pg,Expectation Variance,0,setAssignment9/Notes3_5_2.pg
-Week6,Reorganized/ExpectationVariance/ExpVarOfSum.pg,Expectation Variance,1,setAssignment10.23.13/ExpVarOfSum.pg
-Week6,Reorganized/ExponentialPoisson/poisson_zz.pg,Exponential Poisson,1,setExponentialDist/poisson_zz.pg
-Week6,Reorganized/ExponentialPoisson/stat212-HW06-17.pg,Exponential Poisson,1,setExponentialDist/stat212-HW06-17.pg
-Week6,Reorganized/ExponentialPoisson/ur_pb_9_4.pg,Exponential Poisson,1,setExponentialDist/ur_pb_9_4.pg
-Week6,Reorganized/ExponentialPoisson/ur_pb_9_1.pg,Exponential Poisson,1,setExponentialDist/ur_pb_9_1.pg
-Week6,Reorganized/ExponentialPoisson/ur_pb_9_2.pg,Exponential Poisson,1,setExponentialDist/ur_pb_9_2.pg
-Week6,Reorganized/ExponentialPoisson/poisson_rs.pg,Exponential Poisson,1,setexperimentalProblems/poisson_rs.pg
-Week6,Reorganized/MarkovChebyshev/ChebyshevProblem.pg,Markov Chebyshev,0,local/setAssignment10.23.13/ChebyshevProblem.pg
-Week6,Reorganized/Covariance/1.pg,Covariance,1,setAssignment11.06.13/1.pg
-Week6,Reorganized/ExpectationVariance/probs77.pg,Expectation Variance,1,setAssignment9/probs77.pg
-Week8,Reorganized/CentralLimitTheorem/ur_pb_12_4.pg,Central Limit Theorem,1,setAssignment14/ur_pb_12_4.pg
-Week8,Reorganized/CentralLimitTheorem/ur_pb_11_7.pg,Central Limit Theorem,1,setAssignment14/ur_pb_11_7.pg
-Week8,Reorganized/CentralLimitTheorem/ur_pb_12_3.pg,Central Limit Theorem,1,setAssignment14/ur_pb_12_3.pg
-Week8,Reorganized/CentralLimitTheorem/ur_pb_11_1.pg,Central Limit Theorem,1,setAssignment14/ur_pb_11_1.pg
-Week8,Reorganized/CentralLimitTheorem/ur_pb_11_3.pg,Central Limit Theorem,1,setAssignment14/ur_pb_11_3.pg
-Week8,Reorganized/CentralLimitTheorem/clt_demo.pg,Central Limit Theorem,1,setAssignment11.04.13/clt_demo.pg
-Week8,Reorganized/HypothesisTesting/seatbelt.pg,Hypothesis Testing,1,setAssignment17/seatbelt.pg
-Week8,Reorganized/HypothesisTesting/error.pg,Hypothesis Testing,1,setAssignment17/error.pg
-Week8,Reorganized/HypothesisTesting/psychic.pg,Hypothesis Testing,1,setAssignment17/psychic.pg
-Week8,Reorganized/HypothesisTesting/paired_t_test.pg,Hypothesis Testing,1,setAssignment17/paired_t_test.pg
-Week8,Reorganized/HypothesisTesting/pooled.pg,Hypothesis Testing,1,setAssignment17/pooled.pg
-Week8,Reorganized/HypothesisTesting/gust63.pg,Hypothesis Testing,1,setHypothesisTesting/gust63.pg
-Week8,Reorganized/HypothesisTesting/gust75.pg,Hypothesis Testing,1,setHypothesisTesting/gust75.pg
-Week8,Reorganized/HypothesisTesting/ur_stt_4_1.pg,Hypothesis Testing,1,local/Library/Rochester/setStatistics4HypothesisTesting/ur_stt_4_1.pg
-Week8,Reorganized/HypothesisTesting/MultipleTesting.pg,Hypothesis Testing,1,setHypothesisTesting/MultipleTesting.pg
-Week8,Reorganized/HypothesisTesting/drug.pg,Hypothesis Testing,1,setHypothesisTesting/drug.pg
+Week6,Reorganized/CentralLimitTheorem/ur_pb_12_4.pg,Central Limit Theorem,1,setAssignment14/ur_pb_12_4.pg
+Week6,Reorganized/CentralLimitTheorem/ur_pb_11_7.pg,Central Limit Theorem,1,setAssignment14/ur_pb_11_7.pg
+Week6,Reorganized/CentralLimitTheorem/ur_pb_12_3.pg,Central Limit Theorem,1,setAssignment14/ur_pb_12_3.pg
+Week6,Reorganized/CentralLimitTheorem/ur_pb_11_1.pg,Central Limit Theorem,0,setAssignment14/ur_pb_11_1.pg
+Week6,Reorganized/CentralLimitTheorem/ur_pb_11_3.pg,Central Limit Theorem,0,setAssignment14/ur_pb_11_3.pg
+Week6,Reorganized/CentralLimitTheorem/clt_demo.pg,Central Limit Theorem,1,setAssignment11.04.13/clt_demo.pg
+Week6,Reorganized/HypothesisTesting/seatbelt.pg,Hypothesis Testing,0,setAssignment17/seatbelt.pg
+Week6,Reorganized/HypothesisTesting/error.pg,Hypothesis Testing,1,setAssignment17/error.pg
+Week6,Reorganized/HypothesisTesting/psychic.pg,Hypothesis Testing,1,setAssignment17/psychic.pg
+Week6,Reorganized/HypothesisTesting/paired_t_test.pg,Hypothesis Testing,1,setAssignment17/paired_t_test.pg
+Week6,Reorganized/HypothesisTesting/pooled.pg,Hypothesis Testing,1,setAssignment17/pooled.pg
+Week6,Reorganized/HypothesisTesting/gust63.pg,Hypothesis Testing,1,setHypothesisTesting/gust63.pg
+Week6,Reorganized/HypothesisTesting/gust75.pg,Hypothesis Testing,1,setHypothesisTesting/gust75.pg
+Week6,Reorganized/HypothesisTesting/ur_stt_4_1.pg,Hypothesis Testing,0,local/Library/Rochester/setStatistics4HypothesisTesting/ur_stt_4_1.pg
+Week6,Reorganized/HypothesisTesting/MultipleTesting.pg,Hypothesis Testing,1,setHypothesisTesting/MultipleTesting.pg
+Week6,Reorganized/HypothesisTesting/drug.pg,Hypothesis Testing,0,setHypothesisTesting/drug.pg
+Week7,Reorganized/MarkovChebyshev/ChebyshevProblem.pg,Markov Chebyshev,0,local/setAssignment10.23.13/ChebyshevProblem.pg
+Week7,Reorganized/ExpectationVariance/probs70.pg,Expectation Variance,1,setAssignment10/probs70.pg
+Week7,Reorganized/ExpectationVariance/probs69.pg,Expectation Variance,1,setAssignment10/probs69.pg
+Week7,Reorganized/ExpectationVariance/Notes3_5_2.pg,Expectation Variance,0,setAssignment9/Notes3_5_2.pg
+Week7,Reorganized/ExpectationVariance/ExpVarOfSum.pg,Expectation Variance,1,setAssignment10.23.13/ExpVarOfSum.pg
+Week7,Reorganized/ExponentialPoisson/poisson_zz.pg,Exponential Poisson,1,setExponentialDist/poisson_zz.pg
+Week7,Reorganized/ExponentialPoisson/stat212-HW06-17.pg,Exponential Poisson,1,setExponentialDist/stat212-HW06-17.pg
+Week7,Reorganized/ExponentialPoisson/ur_pb_9_4.pg,Exponential Poisson,1,setExponentialDist/ur_pb_9_4.pg
+Week7,Reorganized/ExponentialPoisson/ur_pb_9_1.pg,Exponential Poisson,1,setExponentialDist/ur_pb_9_1.pg
+Week7,Reorganized/ExponentialPoisson/ur_pb_9_2.pg,Exponential Poisson,1,setExponentialDist/ur_pb_9_2.pg
+Week7,Reorganized/ExponentialPoisson/poisson_rs.pg,Exponential Poisson,1,setexperimentalProblems/poisson_rs.pg
+Week7,Reorganized/Covariance/1.pg,Covariance,1,setAssignment11.06.13/1.pg
+Week7,Reorganized/ExpectationVariance/probs77.pg,Expectation Variance,1,setAssignment9/probs77.pg
+
 Week9,Reorganized/RandomizedAlgs/probs94.pg,Randomized Algorithms,1,setAssignment20/probs94.pg
 Week9,Reorganized/RandomizedAlgs/RandAlgs_2_1.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_1.pg
 Week9,Reorganized/RandomizedAlgs/RandAlgs_2_2.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_2.pg
