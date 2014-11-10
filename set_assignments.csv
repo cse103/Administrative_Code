@@ -127,10 +127,11 @@ Week6,Reorganized/HypothesisTesting/gust75.pg,Hypothesis Testing,1,setHypothesis
 Week6,Reorganized/HypothesisTesting/ur_stt_4_1.pg,Hypothesis Testing,0,local/Library/Rochester/setStatistics4HypothesisTesting/ur_stt_4_1.pg
 Week6,Reorganized/HypothesisTesting/MultipleTesting.pg,Hypothesis Testing,1,setHypothesisTesting/MultipleTesting.pg
 Week6,Reorganized/HypothesisTesting/drug.pg,Hypothesis Testing,0,setHypothesisTesting/drug.pg
-Week7,Reorganized/MarkovChebyshev/ChebyshevProblem.pg,Markov Chebyshev,0,local/setAssignment10.23.13/ChebyshevProblem.pg
+
+Week7,Reorganized/MarkovChebyshev/ChebyshevProblem.pg,Markov Chebyshev,1,local/setAssignment10.23.13/ChebyshevProblem.pg
 Week7,Reorganized/ExpectationVariance/probs70.pg,Expectation Variance,1,setAssignment10/probs70.pg
 Week7,Reorganized/ExpectationVariance/probs69.pg,Expectation Variance,1,setAssignment10/probs69.pg
-Week7,Reorganized/ExpectationVariance/Notes3_5_2.pg,Expectation Variance,0,setAssignment9/Notes3_5_2.pg
+Week7,Reorganized/ExpectationVariance/Notes3_5_2.pg,Expectation Variance,1,setAssignment9/Notes3_5_2.pg
 Week7,Reorganized/ExpectationVariance/ExpVarOfSum.pg,Expectation Variance,1,setAssignment10.23.13/ExpVarOfSum.pg
 Week7,Reorganized/ExponentialPoisson/poisson_zz.pg,Exponential Poisson,1,setExponentialDist/poisson_zz.pg
 Week7,Reorganized/ExponentialPoisson/stat212-HW06-17.pg,Exponential Poisson,1,setExponentialDist/stat212-HW06-17.pg
@@ -140,6 +141,7 @@ Week7,Reorganized/ExponentialPoisson/ur_pb_9_2.pg,Exponential Poisson,1,setExpon
 Week7,Reorganized/ExponentialPoisson/poisson_rs.pg,Exponential Poisson,1,setexperimentalProblems/poisson_rs.pg
 Week7,Reorganized/Covariance/1.pg,Covariance,1,setAssignment11.06.13/1.pg
 Week7,Reorganized/ExpectationVariance/probs77.pg,Expectation Variance,1,setAssignment9/probs77.pg
+
 Week9,Reorganized/RandomizedAlgs/probs94.pg,Randomized Algorithms,1,setAssignment20/probs94.pg
 Week9,Reorganized/RandomizedAlgs/RandAlgs_2_1.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_1.pg
 Week9,Reorganized/RandomizedAlgs/RandAlgs_2_2.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_2.pg
