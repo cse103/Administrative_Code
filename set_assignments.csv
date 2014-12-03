@@ -157,7 +157,6 @@ Week9,Reorganized/RandomizedAlgs/Hashing_6.pg,Hashing,1,setAssignment19/Hashing_
 Week9,Reorganized/RandomizedAlgs/Hashing_7.pg,Hashing,1,setAssignment19/Hashing_7.pg
 Week9,Reorganized/RandomizedAlgs/Hashing_8.pg,Hashing,1,setAssignment19/Hashing_8.pg
 Week9,Reorganized/RandomizedAlgs/bloom.pg,Randomized Algorithms,1,setAssignment21/bloom.pg
-Week9,Reorganized/RandomizedAlgs/document_similarity.pg,Randomized Algorithms,1,setAssignment20/document_similarity.pg
 Week9,Reorganized/RandomizedAlgs/hashing_jaccard.pg,Randomized Algorithms,1,setTestPreparationRA/hashing_2.pg
 Week10,Reorganized/Combinatorics/p12.pg,Combinatorics,1,local/Library/ASU-topics/setCount/p12.pg
 Week10,Reorganized/Combinatorics/coinProblems.pg,Combinatorics,1,setProbability/coinProblems.pg
@@ -190,3 +189,4 @@ Week10,Reorganized/RandomizedAlgs/RandAlgs_2_2.pg,Randomized Algorithms,1,setAss
 Week10,Reorganized/RandomizedAlgs/probs9QuicksortVariant.pg,Variant on finding percentiles,1,new problem (Sanjeev)
 Week10,Reorganized/RandomizedAlgs/QuicksortPivot.pg,Quicksort,1,new problem (Akshay)
 Week10,Reorganized/RandomizedAlgs/Kargers_1.pg,Randomized Algorithms,1,new problem (Ibrahim)
+Week10,Reorganized/RandomizedAlgs/document_similarity.pg,Randomized Algorithms,1,setAssignment20/document_similarity.pg
