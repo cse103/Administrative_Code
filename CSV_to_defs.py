@@ -7,9 +7,12 @@ from datetime import timedelta
 
 df = pd.read_csv('set_assignments.csv')
 df
+sets = []
+for set_name in df['Set Name']:
+    if set_name not in sets:
+        sets.append(set_name)
 
-sets = sorted(set(df['Set Name']))
-print set(df['Set Name'])
+print sets
 start_date = datetime.datetime(2014, 10, 1, 17)
 week = datetime.timedelta(days=7)
 
