@@ -190,3 +190,35 @@ FinalPractice,Reorganized/RandomizedAlgs/probs9QuicksortVariant.pg,Variant on fi
 FinalPractice,Reorganized/RandomizedAlgs/QuicksortPivot.pg,Quicksort,1,new problem (Akshay)
 FinalPractice,Reorganized/RandomizedAlgs/Kargers_1.pg,Randomized Algorithms,1,new problem (Ibrahim)
 Week10,Reorganized/RandomizedAlgs/document_similarity.pg,Randomized Algorithms,1,setAssignment20/document_similarity.pg
+CombinedPracticeFinal,Reorganized/Combinatorics/p12.pg,Combinatorics,1,local/Library/ASU-topics/setCount/p12.pg
+CombinedPracticeFinal,Reorganized/Combinatorics/coinProblems.pg,Combinatorics,1,setProbability/coinProblems.pg
+CombinedPracticeFinal,Reorganized/StarsAndBars/Envelopes1.pg,Stars And Bars,1,setCombinatorics/Envelopes1.pg
+CombinedPracticeFinal,Reorganized/Poker/q2.pg,Poker,1,setAssignment3/q2.pg
+CombinedPracticeFinal,Reorganized/Poker/q4_2.pg,Poker,1,local/setAssignment3/q4_2.pg
+CombinedPracticeFinal,Reorganized/Poker/q4_4.pg,Poker,1,local/setAssignment3/q4_4.pg
+CombinedPracticeFinal,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_5.pg,Cumulative Distribution Functions,1,setmelkherj/cumulative_uniform_masses_5.pg
+CombinedPracticeFinal,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,1,setCDF/cdf_random.pg
+CombinedPracticeFinal,Reorganized/PokerConditional/poker_cond4_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond4_1.pg
+CombinedPracticeFinal,Reorganized/PokerConditional/poker_cond5_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond5_1.pg
+CombinedPracticeFinal,Reorganized/PokerConditional/poker_cond2_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond2_1.pg
+CombinedPracticeFinal,Reorganized/PokerConditional/poker_cond3.pg,Poker Conditional,1,setPokerCondProb/poker_cond3.pg
+CombinedPracticeFinal,Reorganized/PokerConditional/poker_cond6_2.pg,Poker Conditional,1,setPokerCondProb/poker_cond6_2.pg
+CombinedPracticeFinal,Reorganized/MarkovChebyshev/MarkovInequality.pg,Markov Chebyshev,1,setAssignment10.23.13/MarkovInequality.pg
+CombinedPracticeFinal,Reorganized/MarkovChebyshev/chebyshev_1.pg,Markov Chebyshev,1,setChebyshev/chebyshev_1.pg
+CombinedPracticeFinal,Reorganized/MarkovChebyshev/RiggedDice.pg,Markov Chebyshev,1,setAssignment10.23.13/RiggedDice.pg
+CombinedPracticeFinal,Reorganized/CentralLimitTheorem/ur_pb_12_4.pg,Central Limit Theorem,1,setAssignment14/ur_pb_12_4.pg
+CombinedPracticeFinal,Reorganized/CentralLimitTheorem/ur_pb_11_7.pg,Central Limit Theorem,1,setAssignment14/ur_pb_11_7.pg
+CombinedPracticeFinal,Reorganized/CentralLimitTheorem/ur_pb_12_3.pg,Central Limit Theorem,1,setAssignment14/ur_pb_12_3.pg
+CombinedPracticeFinal,Reorganized/CentralLimitTheorem/clt_demo.pg,Central Limit Theorem,1,setAssignment11.04.13/clt_demo.pg
+CombinedPracticeFinal,Reorganized/MarkovChebyshev/ChebyshevProblem.pg,Markov Chebyshev,1,local/setAssignment10.23.13/ChebyshevProblem.pg
+CombinedPracticeFinal,Reorganized/MarkovChebyshev/ChebyshevProblemPart2.pg,Markov Chebyshev,1,local/setAssignment10.23.13/ChebyshevProblem.pg
+CombinedPracticeFinal,Reorganized/ExpectationVariance/probs69.pg,Expectation Variance,1,setAssignment10/probs69.pg
+CombinedPracticeFinal,Reorganized/ExponentialPoisson/poisson_zz.pg,Exponential Poisson,1,setExponentialDist/poisson_zz.pg
+CombinedPracticeFinal,Reorganized/ExponentialPoisson/poisson_rs.pg,Exponential Poisson,1,setexperimentalProblems/poisson_rs.pg
+CombinedPracticeFinal,Reorganized/ExpectationVariance/probs77.pg,Expectation Variance,1,setAssignment9/probs77.pg
+CombinedPracticeFinal,Reorganized/RandomizedAlgs/RandAlgs_2_1.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_1.pg
+CombinedPracticeFinal,Reorganized/RandomizedAlgs/RandAlgs_2_2.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_2.pg
+CombinedPracticeFinal,Reorganized/RandomizedAlgs/probs9QuicksortVariant.pg,Variant on finding percentiles,1,new problem (Sanjeev)
+CombinedPracticeFinal,Reorganized/RandomizedAlgs/QuicksortPivot.pg,Quicksort,1,new problem (Akshay)
+CombinedPracticeFinal,Reorganized/RandomizedAlgs/Kargers_1.pg,Randomized Algorithms,1,new problem (Ibrahim)
+CombinedPracticeFinal,Reorganized/RandomizedAlgs/document_similarity.pg,Randomized Algorithms,1,setAssignment20/document_similarity.pg
