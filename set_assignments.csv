@@ -159,34 +159,34 @@ Week9,Reorganized/RandomizedAlgs/Hashing_8.pg,Hashing,1,setAssignment19/Hashing_
 Week9,Reorganized/RandomizedAlgs/bloom.pg,Randomized Algorithms,1,setAssignment21/bloom.pg
 Week9,Reorganized/RandomizedAlgs/document_similarity.pg,Randomized Algorithms,1,setAssignment20/document_similarity.pg
 Week9,Reorganized/RandomizedAlgs/hashing_jaccard.pg,Randomized Algorithms,1,setTestPreparationRA/hashing_2.pg
-Week10,Reorganized/Combinatorics/p12.pg,Combinatorics,1,local/Library/ASU-topics/setCount/p12.pg
+FinalPractice,Reorganized/Combinatorics/p12.pg,Combinatorics,1,local/Library/ASU-topics/setCount/p12.pg
 Week10,Reorganized/Combinatorics/coinProblems.pg,Combinatorics,1,setProbability/coinProblems.pg
 Week10,Reorganized/StarsAndBars/Envelopes1.pg,Stars And Bars,1,setCombinatorics/Envelopes1.pg
-Week10,Reorganized/Poker/q2.pg,Poker,1,setAssignment3/q2.pg
+FinalPractice,Reorganized/Poker/q2.pg,Poker,1,setAssignment3/q2.pg
 Week10,Reorganized/Poker/q4_2.pg,Poker,1,local/setAssignment3/q4_2.pg
-Week10,Reorganized/Poker/q4_4.pg,Poker,1,local/setAssignment3/q4_4.pg
+FinalPractice,Reorganized/Poker/q4_4.pg,Poker,1,local/setAssignment3/q4_4.pg
 Week10,Reorganized/CumulativeDistributionFunctions/cumulative_uniform_masses_5.pg,Cumulative Distribution Functions,1,setmelkherj/cumulative_uniform_masses_5.pg
-Week10,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,1,setCDF/cdf_random.pg
-Week10,Reorganized/PokerConditional/poker_cond4_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond4_1.pg
+FinalPractice,Reorganized/CumulativeDistributionFunctions/cdf_random.pg,Cumulative Distribution Functions,1,setCDF/cdf_random.pg
+FinalPractice,Reorganized/PokerConditional/poker_cond4_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond4_1.pg
 Week10,Reorganized/PokerConditional/poker_cond5_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond5_1.pg
-Week10,Reorganized/PokerConditional/poker_cond2_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond2_1.pg
-Week10,Reorganized/PokerConditional/poker_cond3.pg,Poker Conditional,1,setPokerCondProb/poker_cond3.pg
-Week10,Reorganized/PokerConditional/poker_cond6_2.pg,Poker Conditional,1,setPokerCondProb/poker_cond6_2.pg
+FinalPractice,Reorganized/PokerConditional/poker_cond2_1.pg,Poker Conditional,1,setPokerCondProb/poker_cond2_1.pg
+FinalPractice,Reorganized/PokerConditional/poker_cond3.pg,Poker Conditional,1,setPokerCondProb/poker_cond3.pg
+FinalPractice,Reorganized/PokerConditional/poker_cond6_2.pg,Poker Conditional,1,setPokerCondProb/poker_cond6_2.pg
 Week10,Reorganized/MarkovChebyshev/MarkovInequality.pg,Markov Chebyshev,1,setAssignment10.23.13/MarkovInequality.pg
-Week10,Reorganized/MarkovChebyshev/chebyshev_1.pg,Markov Chebyshev,1,setChebyshev/chebyshev_1.pg
-Week10,Reorganized/MarkovChebyshev/RiggedDice.pg,Markov Chebyshev,1,setAssignment10.23.13/RiggedDice.pg
-Week10,Reorganized/CentralLimitTheorem/ur_pb_12_4.pg,Central Limit Theorem,1,setAssignment14/ur_pb_12_4.pg
-Week10,Reorganized/CentralLimitTheorem/ur_pb_11_7.pg,Central Limit Theorem,1,setAssignment14/ur_pb_11_7.pg
+FinalPractice,Reorganized/MarkovChebyshev/chebyshev_1.pg,Markov Chebyshev,1,setChebyshev/chebyshev_1.pg
+FinalPractice,Reorganized/MarkovChebyshev/RiggedDice.pg,Markov Chebyshev,1,setAssignment10.23.13/RiggedDice.pg
+FinalPractice,Reorganized/CentralLimitTheorem/ur_pb_12_4.pg,Central Limit Theorem,1,setAssignment14/ur_pb_12_4.pg
+FinalPractice,Reorganized/CentralLimitTheorem/ur_pb_11_7.pg,Central Limit Theorem,1,setAssignment14/ur_pb_11_7.pg
 Week10,Reorganized/CentralLimitTheorem/ur_pb_12_3.pg,Central Limit Theorem,1,setAssignment14/ur_pb_12_3.pg
-Week10,Reorganized/CentralLimitTheorem/clt_demo.pg,Central Limit Theorem,1,setAssignment11.04.13/clt_demo.pg
+FinalPractice,Reorganized/CentralLimitTheorem/clt_demo.pg,Central Limit Theorem,1,setAssignment11.04.13/clt_demo.pg
 Week10,Reorganized/MarkovChebyshev/ChebyshevProblem.pg,Markov Chebyshev,1,local/setAssignment10.23.13/ChebyshevProblem.pg
-Week10,Reorganized/MarkovChebyshev/ChebyshevProblemPart2.pg,Markov Chebyshev,1,local/setAssignment10.23.13/ChebyshevProblem.pg
+FinalPractice,Reorganized/MarkovChebyshev/ChebyshevProblemPart2.pg,Markov Chebyshev,1,local/setAssignment10.23.13/ChebyshevProblem.pg
 Week10,Reorganized/ExpectationVariance/probs69.pg,Expectation Variance,1,setAssignment10/probs69.pg
 Week10,Reorganized/ExponentialPoisson/poisson_zz.pg,Exponential Poisson,1,setExponentialDist/poisson_zz.pg
-Week10,Reorganized/ExponentialPoisson/poisson_rs.pg,Exponential Poisson,1,setexperimentalProblems/poisson_rs.pg
-Week10,Reorganized/ExpectationVariance/probs77.pg,Expectation Variance,1,setAssignment9/probs77.pg
-Week10,Reorganized/RandomizedAlgs/RandAlgs_2_1.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_1.pg
-Week10,Reorganized/RandomizedAlgs/RandAlgs_2_2.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_2.pg
-Week10,Reorganized/RandomizedAlgs/probs9QuicksortVariant.pg,Variant on finding percentiles,1,new problem (Sanjeev)
+FinalPractice,Reorganized/ExponentialPoisson/poisson_rs.pg,Exponential Poisson,1,setexperimentalProblems/poisson_rs.pg
+FinalPractice,Reorganized/ExpectationVariance/probs77.pg,Expectation Variance,1,setAssignment9/probs77.pg
+FinalPractice,Reorganized/RandomizedAlgs/RandAlgs_2_1.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_1.pg
+FinalPractice,Reorganized/RandomizedAlgs/RandAlgs_2_2.pg,Randomized Algorithms,1,setAssignment18/RandAlgs_2_2.pg
+FinalPractice,Reorganized/RandomizedAlgs/probs9QuicksortVariant.pg,Variant on finding percentiles,1,new problem (Sanjeev)
 Week10,Reorganized/RandomizedAlgs/QuicksortPivot.pg,Quicksort,1,new problem (Akshay)
-Week10,Reorganized/RandomizedAlgs/Kargers_1.pg,Randomized Algorithms,1,new problem (Ibrahim)
+FinalPractice,Reorganized/RandomizedAlgs/Kargers_1.pg,Randomized Algorithms,1,new problem (Ibrahim)
