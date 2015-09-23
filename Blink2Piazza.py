@@ -14,10 +14,11 @@ Sec ID	PID	Student	Credits	College	Major	Level	Email
 """
 
 import sys
+f = open(sys.argv[1], 'r')
 for i in range(4):      #skip header lines
-    sys.stdin.readline()
+    f.readline()
 
-for line in sys.stdin.readlines():
+for line in f.readlines():
     # parts = line.strip().split('\t')
     SecID, PID, Student, Credits, College, Major, Level, Email= line.strip().split('\t')
     Last, First = Student.split(',')
