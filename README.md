@@ -2,9 +2,16 @@
 
 Webwork allows adding students from a .lst file.
 
-[Blink2Webwork.py](Blink2Webwork.py) take two file names. First one is a .tsv file contains all the students to be added to webwork. Second is a .lst file for program to write to. lst file is used by webwork as [classlist file](http://webwork.maa.org/wiki/Classlist_Files#.VgIaE2TBzRY).
+- [Blink2Webwork.py](Blink2Webwork.py) take two file names. First one is a .tsv file contains all the students to be added to webwork. Second is a .lst file for program to write to. lst file is used by webwork as [classlist file](http://webwork.maa.org/wiki/Classlist_Files#.VgIaE2TBzRY).
 
-[Blink2Piazza.py](Blink2Piazza.py) take in a .tsv file as an argument and output a list of emails. Can simply copy and paste the output into piazza to invite students through their emails.
+- [Blink2Webwork_diff.py](Blink2Webwork_diff.py) find the new students who are in either new waitlist or enrollment list but not in any of the old waitlist or enrollment lists. File takes five files as arguemnts:
+	- the [.lst](http://webwork.maa.org/wiki/Classlist_Files#.VgIaE2TBzRY) file to write to.
+	- the .tsv file contains old enrollment students list.
+	- the .tsv file contains old waitlist students list.
+	- the .tsv file contains new enrollment students list.
+	- the .tsv file contains new waitlist students list.
+
+- [Blink2Piazza.py](Blink2Piazza.py) take in a .tsv file as an argument and output a list of emails. Can simply copy and paste the output into piazza to invite students through their emails.
 
 
 ## Generating Assignments ##

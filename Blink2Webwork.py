@@ -26,6 +26,7 @@ for i in range(4):      #skip header lines
 
 for line in readfile.readlines():
     # parts = line.strip().split('\t')
+    #SecID, PID, Student, College, Major, Level, Date, Time, Email= line.strip().split('\t')
     SecID, PID, Student, Credits, College, Major, Level, Email= line.strip().split('\t')
     Last, First = Student.split(',')
     Email=Email.strip()
